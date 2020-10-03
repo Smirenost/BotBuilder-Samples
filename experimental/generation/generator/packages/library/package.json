@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@types/fs-extra": "^8.0.0",
-    "@types/mocha": "^5.2.7",
+    "@types/mocha": "^8.0.3",
     "@types/node": "^10.17.18",
     "@types/seedrandom": "~2.4.28",
     "mocha": "^5.2.0",
