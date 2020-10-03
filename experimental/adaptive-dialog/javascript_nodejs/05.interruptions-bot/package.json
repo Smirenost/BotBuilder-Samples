@@ -21,7 +21,7 @@
         "botbuilder-dialogs-adaptive": "4.9.2-rc42-preview",
         "botbuilder-lg": "4.9.2-rc42",
         "adaptive-expressions": "4.9.2-rc42",
-        "botbuilder-ai": "4.9.2-rc42",
+        "botbuilder-ai": "4.10.3",
         "dotenv": "^8.2.0",
         "path": "^0.12.7",
         "restify": "~8.4.0"
