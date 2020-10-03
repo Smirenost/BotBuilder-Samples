@@ -19,7 +19,7 @@
     "swagger-parser": "^8.0.4"
   },
   "devDependencies": {
-    "@types/fs-extra": "^8.0.0",
+    "@types/fs-extra": "^9.0.1",
     "@types/mocha": "^5.2.7",
     "@types/node": "^10.17.18",
     "@types/seedrandom": "~2.4.28",
