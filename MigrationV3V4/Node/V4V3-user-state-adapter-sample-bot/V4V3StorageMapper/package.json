@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "botbuilder": "~4.5.1",
+    "botbuilder": "~4.10.3",
     "botbuilder-azure": "^3.0.4",
     "uuid-validate": "0.0.3"
   },
