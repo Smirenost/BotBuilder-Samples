@@ -12,7 +12,7 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {
-        "botbuilder": "~4.5.1",
+        "botbuilder": "~4.10.3",
         "botbuilder-azure": "^4.5.2",
         "botbuilder-azure-v3": "npm:botbuilder-azure@^3.1.0",
         "dotenv": "^8.0.0",
