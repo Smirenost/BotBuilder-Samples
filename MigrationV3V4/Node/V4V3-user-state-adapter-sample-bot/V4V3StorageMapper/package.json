@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "botbuilder": "~4.5.1",
-    "botbuilder-azure": "^3.0.4",
+    "botbuilder-azure": "^4.10.4",
     "uuid-validate": "0.0.3"
   },
   "devDependencies": {
