@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "botbuilder-core": "4.5.2"
+    "botbuilder-core": "4.10.4"
   },
   "devDependencies": {
     "typescript": "^3.5.3"
