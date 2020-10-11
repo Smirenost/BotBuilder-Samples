@@ -17,7 +17,7 @@
     },
     "dependencies": {
         "botbuilder": "~4.10.1",
-        "botbuilder-dialogs": "~4.10.1",
+        "botbuilder-dialogs": "4.10.4",
         "dotenv": "^8.2.0",
         "fetch-ponyfill": "^6.1.0",
         "moment": "^2.26.0",
