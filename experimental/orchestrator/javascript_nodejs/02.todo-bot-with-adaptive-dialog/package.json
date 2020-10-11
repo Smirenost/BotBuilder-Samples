@@ -21,7 +21,7 @@
         "botbuilder-dialogs-adaptive": "4.10.0-preview",
         "botbuilder-ai-orchestrator": "4.11.0-dev.20200813.01cd644",
         "botbuilder-lg": "4.10.0",
-        "adaptive-expressions": "4.10.0",
+        "adaptive-expressions": "4.10.4",
         "dotenv": "^8.2.0",
         "path": "^0.12.7",
         "restify": "~8.4.0"
